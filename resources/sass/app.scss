@@ -6,3 +6,6 @@
 
 // Bootstrap
 @import '~bootstrap/scss/bootstrap';
+
+/* Prevent sticky header overlapping content */
+body { padding-top: 40px; }
